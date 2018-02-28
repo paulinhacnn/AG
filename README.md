@@ -1,2 +1,2 @@
 # AG
-Genetic Algorithm 
+Genetic Algorithm for images under construction
